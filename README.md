@@ -1,4 +1,4 @@
-<br/> <div align="center"> <img src="./logo.png" alt="Edge-To-Music AI Logo" width="180"> </div>
+<br/> <div align="center"> <img src="./logo (1).png" alt="Edge-To-Music AI Logo" width="180"> </div>
 
 <h1 align="center">Edge-To-Music AI</h1>
 
