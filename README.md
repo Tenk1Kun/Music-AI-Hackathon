@@ -5,7 +5,7 @@
 <p align="center">
   Transform architecture into sound.<br/>
   Upload a building → AI guesses cultural style → edges become melody → browser performs it in real time.<br/><br/>
-  2nd Place • AI + Music Hackathon (Osaka, 2025) <br/><br/>
+  2nd Place • Music & AI Hackathon (Nara, 2025) <br/><br/>
   <a href="https://hackathon-2025-edge-music.vercel.app/"><strong>▶ WEB LINK TO DEMONSTRATION</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/Tenk1Kun/Music-AI-Hackathon">Source Code</a>
