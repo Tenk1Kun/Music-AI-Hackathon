@@ -8,7 +8,7 @@
   2nd Place • AI + Music Hackathon (Osaka, 2025) <br/><br/>
   <a href="https://hackathon-2025-edge-music.vercel.app/"><strong>▶ WEB LINK TO DEMONSTRATION</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Tenk1Kun/Music-AI-Hackathon-Osaka-2025-Music-Project">Source Code</a>
+  <a href="https://github.com/Tenk1Kun/Music-AI-Hackathon">Source Code</a>
 </p>
 
 ---
