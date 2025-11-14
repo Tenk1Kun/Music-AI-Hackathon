@@ -27,7 +27,7 @@ This system turns architectural form into a clear, monophonic musical line:
 - Play in-browser (Tone.js Transport)  
 - Zero backend — privacy-safe, low latency  
 
-> “Architecture is frozen music.” Here, music melts architecture back into sound.
+> “Architecture is frozen music.” < Here, music melts architecture back into sound.
 
 ---
 
