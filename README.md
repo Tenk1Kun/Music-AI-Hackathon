@@ -98,6 +98,7 @@ This system turns architectural form into a clear, monophonic musical line:
 **Mungunshagai Tumurbaatar**  
 - Contributed **ideas** and **website** support
 
+---
 Note: This is a public copy of the original private repository, created specifically for Georgia Tech portfolio submission. Community metrics (stars, forks, etc.) do not reflect actual project engagement.
 
 ---
